@@ -1,5 +1,5 @@
-Banking Risk Analysis
-This project explores a banking customer dataset to understand key factors associated with loan risk, such as income, credit behavior, occupation, and demographic attributes. The goal is to support better loan approval decisions and reduce financial risk using data insights.
+
+This explores a banking customer dataset to understand key factors associated with loan risk, such as income, credit behavior, occupation, and demographic attributes. The goal is to support better loan approval decisions and reduce financial risk using data insights.
 
  Objective
 Identify customer segments with higher loan risks
@@ -40,7 +40,7 @@ Property ownership
 
 Some categories had consistently higher proportions of risky clients.
 
-📉 Numeric Variable Trends
+Numeric Variable Trends
 Clients with higher estimated income and superannuation savings were generally lower risk.
 
 Visual distributions showed clear stratification between high and low risk groups.
