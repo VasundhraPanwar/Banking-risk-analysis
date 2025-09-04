@@ -71,4 +71,14 @@ Power BI was used to build an interactive dashboard for exploring loan risk by c
 Filters and slicers were added for dynamic exploration (e.g., year joined, gender, income band).
 
 Measures like Total Loan, Loan-to-Income Ratio, and Risk Flag Counts were built using DAX.
+📈 Found patterns:
 
+Low & Medium income bands → higher risk.
+
+Rich clients (higher income + superannuation savings) → lower risk.
+
+High fee structure → higher risk (from your file).
+
+🔗 Found correlations: income ↔ superannuation savings, credit card balance ↔ number of cards.
+
+📉 Weak correlation of continuous variables with risk, but categorical analysis gave stronger insights.
