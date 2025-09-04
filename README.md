@@ -78,7 +78,7 @@ Low & Medium income bands → higher risk.
 
 Rich clients (higher income + superannuation savings) → lower risk.
 
-High fee structure → higher risk (from your file).
+High fee structure → higher risk .
 
 🔗 Found correlations: income ↔ superannuation savings, credit card balance ↔ number of cards.
 
