@@ -71,6 +71,7 @@ Power BI was used to build an interactive dashboard for exploring loan risk by c
 Filters and slicers were added for dynamic exploration (e.g., year joined, gender, income band).
 
 Measures like Total Loan, Loan-to-Income Ratio, and Risk Flag Counts were built using DAX.
+
 📈 Found patterns:
 
 Low & Medium income bands → higher risk.
