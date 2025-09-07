@@ -26,8 +26,9 @@ Clients were categorized into Low, Medium, and High income bands.
 Majority of high-risk clients belonged to the High income bands.
 
 
- Categorical Factors & Risk
+ 
  <img width="458" height="196" alt="image" src="https://github.com/user-attachments/assets/e35b0019-faae-410b-b1ea-6cb44c8bb14f" />
+ 
 High fee structure → higher risk .
 
 
@@ -62,11 +63,7 @@ Filters and slicers were added for dynamic exploration (e.g., year joined, gende
 
 Measures like Total Loan, Loan-to-Income Ratio, and Risk Flag Counts were built using DAX.
 
-📈 Found patterns:
 
-Low & Medium income bands → higher risk.
-
-Rich clients (higher income + superannuation savings) → lower risk.
 
 High fee structure → higher risk .
 
