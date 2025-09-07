@@ -23,25 +23,15 @@ Power BI – Final dashboard development and business storytelling
  Income and Risk Weighting
 Clients were categorized into Low, Medium, and High income bands.
 
-Majority of high-risk clients belonged to the Low and Medium income bands.
+Majority of high-risk clients belonged to the High income bands.
+
 
  Categorical Factors & Risk
-Risk distribution varied significantly by:
+ <img width="458" height="196" alt="image" src="https://github.com/user-attachments/assets/e35b0019-faae-410b-b1ea-6cb44c8bb14f" />
+High fee structure → higher risk .
 
-Occupation
 
-Nationality
 
-Fee structure
-
-Gender
-
-Property ownership
-
-Some categories had consistently higher proportions of risky clients.
-
-Numeric Variable Trends
-Clients with higher estimated income and superannuation savings were generally lower risk.
 
 Visual distributions showed clear stratification between high and low risk groups.
 
